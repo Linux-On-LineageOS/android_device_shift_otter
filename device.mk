@@ -400,3 +400,4 @@ PRODUCT_PACKAGES += \
 
 # Inherit from the proprietary files makefile.
 $(call inherit-product, vendor/shift/otter/otter-vendor.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
